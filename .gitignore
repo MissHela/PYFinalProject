@@ -1,3 +1,5 @@
 .pytest_cache
 .vscode
 *.csv
+sqltools_20220424210108_18848.log
+*.db
